@@ -2,6 +2,9 @@
 https://jikan.moe/
 ```
 ```
+npm i axios
+```
+```
 Netflix mock up application that allows end user to go through a list of current popular animes, and over 70 diffferent genres of anime. Created with Jikan API
 ```
 ![Netflix01](https://user-images.githubusercontent.com/35810850/178550644-a2b531fb-7614-4299-aaaf-1ecb29ebd34a.jpg)
